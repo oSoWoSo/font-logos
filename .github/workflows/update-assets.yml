@@ -41,15 +41,18 @@ jobs:
         run: |
           ls vectors/*.svg | cut -d'/' -f2 | cut -d'.' -f1 > svg_files.txt
 
-      - name: Generate icons.tsv
+      - name: Generate icons2.tsv
         run: |
-          echo -e "offset\tname\tid" > icons.tsv
-          while IFS= read -r file; do
-              echo "$name" | awk '{printf "%d\t%s\t%s\n", NR-1, $0, tolower($0)}' >> vectors_list.txt
-          done < svg_files.txt
+          echo -e "offset\tname\tid" > icons2.tsv
+          awk 'BEGIN { print "offset\tname\tid" } { print NR-1 "\t" $0 }' svg_files.txt >> icons2.tsv
 
       - name: Print generated file
-        run: cat icons.tsv
+        run: cat icons2.tsv
+
+      - name: Backup old and rename new
+        run: |
+          mv icons.tsv icons-backup.tsv
+          mv icons2.tsv icons.tsv
 
       - name: Create the assets
         run: |
