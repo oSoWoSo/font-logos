@@ -120,7 +120,12 @@
 .fl-neovim::before, 
 .fl-thunderbird::before, 
 .fl-tor::before, 
-.fl-vscodium::before
+.fl-vscodium::before, 
+.fl-agarimos::before, 
+.fl-dietpi::before, 
+.fl-haiku::before, 
+.fl-netboot::before, 
+.fl-slitaz::before
  {
   display: inline-block;
   font-family: "font-logos";
@@ -506,4 +511,23 @@
 }
 .fl-vscodium::before {
   content: "\f372";
+}
+.fl-agarimos::before {
+  content: "\f373";
+}
+.fl-dietpi::before {
+  content: "\f374";
+}
+.fl-haiku::before {
+  content: "\f375";
+}
+.fl-fw.fl-haiku::before {
+  font-size: 0.9394495412844037em;
+  line-height: 1.064453125em;
+}
+.fl-netboot::before {
+  content: "\f376";
+}
+.fl-slitaz::before {
+  content: "\f377";
 }

@@ -697,6 +697,36 @@
       "name": "VS Codium",
       "codepoint": 62322,
       "variant": false
+    },
+    "agarimos": {
+      "offset": 115,
+      "name": "Agarim OS",
+      "codepoint": 62323,
+      "variant": false
+    },
+    "dietpi": {
+      "offset": 116,
+      "name": "DietPi",
+      "codepoint": 62324,
+      "variant": false
+    },
+    "haiku": {
+      "offset": 117,
+      "name": "Haiku",
+      "codepoint": 62325,
+      "variant": false
+    },
+    "netboot": {
+      "offset": 118,
+      "name": "netboot.xyz",
+      "codepoint": 62326,
+      "variant": false
+    },
+    "slitaz": {
+      "offset": 119,
+      "name": "Slitaz",
+      "codepoint": 62327,
+      "variant": false
     }
   }
 }
