@@ -39,14 +39,13 @@ jobs:
 
       - name: List SVG files
         run: |
-          ls vectors/*.svg > svg_files.txt
+          ls vectors/*.svg | cut -d'/' -f2 | cut -d'.' -f1 > svg_files.txt
 
       - name: Generate icons.tsv
         run: |
-          echo "offset\tname\tid" > icons.tsv
+          echo -e "offset\tname\tid" > icons.tsv
           while IFS= read -r file; do
-              name=$(basename "$file" .svg)
-              echo "${name//_/ }" | awk '{printf "%d\t%s\t%s\n", NR-1, $0, tolower($0)}' >> vectors_list.txt
+              echo "$name" | awk '{printf "%d\t%s\t%s\n", NR-1, $0, tolower($0)}' >> vectors_list.txt
           done < svg_files.txt
 
       - name: Print generated file
