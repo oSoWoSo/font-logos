@@ -37,6 +37,21 @@ jobs:
           echo Try appimage with path
           fontforge --version
 
+      - name: List SVG files
+        run: |
+          ls vectors/*.svg > svg_files.txt
+
+      - name: Generate icons.tsv
+        run: |
+          echo "offset\tname\tid" > icons.tsv
+          while IFS= read -r file; do
+              name=$(basename "$file" .svg)
+              echo "${name//_/ }" | awk '{printf "%d\t%s\t%s\n", NR-1, $0, tolower($0)}' >> vectors_list.txt
+          done < svg_files.txt
+
+      - name: Print generated file
+        run: cat icons.tsv
+
       - name: Create the assets
         run: |
           make
@@ -59,3 +74,4 @@ jobs:
           git-config-name: GitHub Actions
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
           clean: false
+          
