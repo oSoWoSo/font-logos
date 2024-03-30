@@ -28,7 +28,7 @@ offset	name					id
 26		Tux						tux
 27		Ubuntu					ubuntu
 28		Ubuntu (inverse)		ubuntu-inverse
-29		Alma Linux				almalinux
+29		Alma Linux				alma
 30		ArchLabs				archlabs
 31		Artix Linux				artix
 32		Budgie					budgie
@@ -119,3 +119,89 @@ offset	name					id
 117		Haiku					haiku
 118		netboot.xyz				netboot
 119		Slitaz					slitaz
+120		Antix					AntiX
+121		PC Linux OS				PCLinuxOS
+122		Absolute				absolute
+123		Academix				academix
+124		Aix						aix
+125		Android					android
+126		Antix					antix
+127		Archbang				archbang
+128		Archman					archman
+129		Arya Linux				aryalinux
+130		Asahi Linux				asahilinux
+131		Athena OS				athenaos
+132		Backbox					backbox
+133		Batocera				batocera
+134		Blackarch				blackarch
+135		BlendOS					blendos
+136		Bodhi Linux				bodhi
+137		Brackets				brackets
+138		Buildroot				buildroot
+139		bunsenlabs				bunsenlabs
+140		Cachy OS				cachyos
+141		Centos stream			centos-stream
+142		Cereus Linux			cereus
+143		ClearlinuxOS			clearlinuxos
+144		DragonFly BSD			dragonflybsd
+145		Edubuntu				edubuntu
+146		Ferren OS				ferenos
+147		Free DOS				freedos
+148		GabeeOS					gabeeos
+149		GhostBSD				ghostbsd
+150		KaOS					kaos
+151		KaOS					kaos1
+152		Knoppix					knoppix
+153		KolibriOS				kolibrios
+154		Linux Lite				linux-lite
+155		Linux Mint				linuxmint2
+156		Linux Mint Debin		lmde
+157		Lubuntu					lubuntu
+158		Lubuntu					lubuntu2
+159		Mabox Linux				mabox
+160		mac						mac
+161		macOS					macos
+162		Mad Linux				madlinux
+163		MidnightBSD				midnightbsd
+164		MS-DOS					ms-dos
+165		mx						mx
+166		NetBSD					netbsd
+167		NetRunner				netrunner
+168		NitruX					nitrux
+169		nobara					nobara
+170		open Mandriva			openmandriva
+171		Oracle Linux			oraclelinux
+172		PC Linux OS				pclinuxos
+173		pisi Linux				pisilinux
+174		Pure OS					pureos
+175		Q4OS					q4os
+176		ReactOS					reactos
+177		reborn OS				rebornos
+178		Regolith				regolith
+179		Rhino					rhino
+180		RisiOS					risios
+181		Rosa Linux				rosa
+182		SalentOS				salentos
+183		siduction				siduction
+184		SmartOS					smartos
+185		Sparky Linux			sparky
+186		SteamOS					steamos
+187		TrueNAS core			truenas-core
+188		TrueNAS scale			truenas-scale
+189		TrueNAS					truenas
+190		TrueOS					trueos
+191		Tuxedo OS				tuxedoos
+192		Ubuntu Budgie			ubuntu-budgie
+193		Ubuntu Budgie			ubuntu-budgie2
+194		Ubuntu Kylin			ubuntu-kylin
+195		Ubuntu Mate				ubuntu-mate
+196		Ubuntu Studio			ubuntu-studio
+197		Ubuntu Kylin			ubuntukylin
+198		Ubuntu Studio			ubuntustudio
+199		Ultimate Edition		ultimate-edition
+200		Ultramarine				ultramarine
+201		VX Linux				vxlinux
+202		Win to Zorin			windows-to-zorin-os
+203		Windows					windows
+204		Xubuntu					xubuntu
+205		Xubuntu					xubuntu2
