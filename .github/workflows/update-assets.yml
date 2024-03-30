@@ -44,15 +44,15 @@ jobs:
       - name: Generate icons2.tsv
         run: |
           echo -e "offset\tname\tid" > icons2.tsv
-          awk 'BEGIN { print "offset\tname\tid" } { print NR-1 "\t" $0 }' svg_files.txt >> icons2.tsv
+          awk 'BEGIN { print "offset  name  id" } { print NR-1 "\t" $0 }' svg_files.txt >> icons2.tsv
 
-      - name: Print generated file
-        run: cat icons2.tsv
+      # - name: Print generated file
+        # run: cat icons2.tsv
 
-      - name: Backup old and rename new
-        run: |
-          mv icons.tsv icons-backup.tsv
-          mv icons2.tsv icons.tsv
+      # - name: Backup old and rename new
+        # run: |
+          # mv icons.tsv icons-backup.tsv
+          # mv icons2.tsv icons.tsv
 
       - name: Create the assets
         run: |
