@@ -715,6 +715,36 @@
       "name": "Qt",
       "codepoint": 62325,
       "variant": false
+    },
+    "agarimos": {
+      "offset": 118,
+      "name": "Agarim OS",
+      "codepoint": 62326,
+      "variant": false
+    },
+    "dietpi": {
+      "offset": 119,
+      "name": "DietPi",
+      "codepoint": 62327,
+      "variant": false
+    },
+    "haiku": {
+      "offset": 120,
+      "name": "Haiku",
+      "codepoint": 62328,
+      "variant": false
+    },
+    "netboot": {
+      "offset": 121,
+      "name": "netboot.xyz",
+      "codepoint": 62329,
+      "variant": false
+    },
+    "slitaz": {
+      "offset": 122,
+      "name": "Slitaz",
+      "codepoint": 62330,
+      "variant": false
     }
   }
 }

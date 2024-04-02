@@ -354,6 +354,21 @@
     },
     "qt": {
       "width": 512
+    },
+    "agarimos": {
+      "width": 304
+    },
+    "dietpi": {
+      "width": 427
+    },
+    "haiku": {
+      "width": 545
+    },
+    "netboot": {
+      "width": 358
+    },
+    "slitaz": {
+      "width": 430
     }
   }
 }
