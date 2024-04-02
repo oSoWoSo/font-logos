@@ -1,10 +1,10 @@
 {
   "name": "font-logos",
   "version": {
-    "string": "1.1.1",
+    "string": "1.2.0",
     "major": "1",
-    "minor": "1",
-    "patch": "1",
+    "minor": "2",
+    "patch": "0",
     "stable": "1"
   },
   "icons": {
@@ -698,34 +698,22 @@
       "codepoint": 62322,
       "variant": false
     },
-    "agarimos": {
+    "kde": {
       "offset": 115,
-      "name": "Agarim OS",
+      "name": "KDE",
       "codepoint": 62323,
       "variant": false
     },
-    "dietpi": {
+    "postmarketos": {
       "offset": 116,
-      "name": "DietPi",
+      "name": "PostmarketOS",
       "codepoint": 62324,
       "variant": false
     },
-    "haiku": {
+    "qt": {
       "offset": 117,
-      "name": "Haiku",
+      "name": "Qt",
       "codepoint": 62325,
-      "variant": false
-    },
-    "netboot": {
-      "offset": 118,
-      "name": "netboot.xyz",
-      "codepoint": 62326,
-      "variant": false
-    },
-    "slitaz": {
-      "offset": 119,
-      "name": "Slitaz",
-      "codepoint": 62327,
       "variant": false
     }
   }

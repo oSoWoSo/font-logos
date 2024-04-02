@@ -4,7 +4,7 @@
   font-family: "font-logos";
   font-style: normal;
   font-weight: normal;
-  src:url("font-logos.woff?v=1.1.1") format("woff"),url("font-logos.woff2?v=1.1.1") format("woff2"),url("font-logos.ttf?v=1.1.1") format("truetype")}
+  src:url("font-logos.woff?v=1.2.0") format("woff"),url("font-logos.woff2?v=1.2.0") format("woff2"),url("font-logos.ttf?v=1.2.0") format("truetype")}
 
 .fl-alpine::before, 
 .fl-aosc::before, 
@@ -121,11 +121,9 @@
 .fl-thunderbird::before, 
 .fl-tor::before, 
 .fl-vscodium::before, 
-.fl-agarimos::before, 
-.fl-dietpi::before, 
-.fl-haiku::before, 
-.fl-netboot::before, 
-.fl-slitaz::before
+.fl-kde::before, 
+.fl-postmarketos::before, 
+.fl-qt::before
  {
   display: inline-block;
   font-family: "font-logos";
@@ -512,22 +510,12 @@
 .fl-vscodium::before {
   content: "\f372";
 }
-.fl-agarimos::before {
+.fl-kde::before {
   content: "\f373";
 }
-.fl-dietpi::before {
+.fl-postmarketos::before {
   content: "\f374";
 }
-.fl-haiku::before {
+.fl-qt::before {
   content: "\f375";
-}
-.fl-fw.fl-haiku::before {
-  font-size: 0.9394495412844037em;
-  line-height: 1.064453125em;
-}
-.fl-netboot::before {
-  content: "\f376";
-}
-.fl-slitaz::before {
-  content: "\f377";
 }

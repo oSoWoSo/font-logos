@@ -346,20 +346,14 @@
     "vscodium": {
       "width": 511
     },
-    "agarimos": {
-      "width": 304
+    "kde": {
+      "width": 484
     },
-    "dietpi": {
-      "width": 427
+    "postmarketos": {
+      "width": 512
     },
-    "haiku": {
-      "width": 545
-    },
-    "netboot": {
-      "width": 358
-    },
-    "slitaz": {
-      "width": 430
+    "qt": {
+      "width": 512
     }
   }
 }
