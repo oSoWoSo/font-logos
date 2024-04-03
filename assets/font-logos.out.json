@@ -53,7 +53,7 @@
       "width": 326
     },
     "mandriva": {
-      "width": 512
+      "width": 725
     },
     "manjaro": {
       "width": 512
@@ -110,7 +110,7 @@
       "width": 512
     },
     "flathub": {
-      "width": 512
+      "width": 653
     },
     "gnu-guix": {
       "width": 500
@@ -215,7 +215,7 @@
       "width": 510
     },
     "biglinux": {
-      "width": 502
+      "width": 512
     },
     "crystal": {
       "width": 327
@@ -260,7 +260,7 @@
       "width": 512
     },
     "dwm": {
-      "width": 512
+      "width": 1229
     },
     "enlightenment": {
       "width": 379
@@ -356,19 +356,154 @@
       "width": 512
     },
     "agarimos": {
-      "width": 304
+      "width": 512
+    },
+    "aix": {
+      "width": 512
+    },
+    "android": {
+      "width": 512
+    },
+    "antix": {
+      "width": 527
+    },
+    "archbang": {
+      "width": 448
+    },
+    "aryalinux": {
+      "width": 512
+    },
+    "athenaos": {
+      "width": 512
+    },
+    "backbox": {
+      "width": 512
+    },
+    "bodhi": {
+      "width": 512
+    },
+    "bunsenlabs": {
+      "width": 512
+    },
+    "cereus": {
+      "width": 642
     },
     "dietpi": {
-      "width": 427
+      "width": 400
+    },
+    "eos": {
+      "width": 512
+    },
+    "freedos": {
+      "width": 620
+    },
+    "ghostbsd": {
+      "width": 512
     },
     "haiku": {
       "width": 545
     },
+    "linux-lite": {
+      "width": 448
+    },
+    "linux-lite-inverse": {
+      "width": 448
+    },
+    "linuxmint2": {
+      "width": 512
+    },
+    "lmde": {
+      "width": 512
+    },
+    "lubuntu": {
+      "width": 512
+    },
+    "mabox": {
+      "width": 488
+    },
+    "macos": {
+      "width": 512
+    },
+    "midnightbsd": {
+      "width": 512
+    },
     "netboot": {
-      "width": 358
+      "width": 766
+    },
+    "netbsd": {
+      "width": 512
+    },
+    "nitrux": {
+      "width": 411
+    },
+    "nobara": {
+      "width": 504
+    },
+    "openmandriva": {
+      "width": 512
+    },
+    "pclinuxos": {
+      "width": 512
+    },
+    "pureos": {
+      "width": 512
+    },
+    "q4os": {
+      "width": 513
+    },
+    "rebornos": {
+      "width": 512
+    },
+    "regolith": {
+      "width": 602
+    },
+    "siduction": {
+      "width": 512
     },
     "slitaz": {
-      "width": 430
+      "width": 512
+    },
+    "smartos": {
+      "width": 512
+    },
+    "steamos": {
+      "width": 506
+    },
+    "truenas-core": {
+      "width": 371
+    },
+    "trueos": {
+      "width": 390
+    },
+    "tuxedoos": {
+      "width": 512
+    },
+    "ubuntu-budgie": {
+      "width": 512
+    },
+    "ubuntu-kylin": {
+      "width": 512
+    },
+    "ubuntu-mate": {
+      "width": 512
+    },
+    "ubuntu-studio": {
+      "width": 511
+    },
+    "ultimate-edition": {
+      "width": 512
+    },
+    "ultramarine": {
+      "width": 512
+    },
+    "vxlinux": {
+      "width": 511
+    },
+    "windows": {
+      "width": 512
+    },
+    "xubuntu": {
+      "width": 512
     }
   }
 }

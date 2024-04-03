@@ -125,10 +125,55 @@
 .fl-postmarketos::before, 
 .fl-qt::before, 
 .fl-agarimos::before, 
+.fl-aix::before, 
+.fl-android::before, 
+.fl-antix::before, 
+.fl-archbang::before, 
+.fl-aryalinux::before, 
+.fl-athenaos::before, 
+.fl-backbox::before, 
+.fl-bodhi::before, 
+.fl-bunsenlabs::before, 
+.fl-cereus::before, 
 .fl-dietpi::before, 
+.fl-eos::before, 
+.fl-freedos::before, 
+.fl-ghostbsd::before, 
 .fl-haiku::before, 
+.fl-linux-lite::before, 
+.fl-linux-lite-inverse::before, 
+.fl-linuxmint2::before, 
+.fl-lmde::before, 
+.fl-lubuntu::before, 
+.fl-mabox::before, 
+.fl-macos::before, 
+.fl-midnightbsd::before, 
 .fl-netboot::before, 
-.fl-slitaz::before
+.fl-netbsd::before, 
+.fl-nitrux::before, 
+.fl-nobara::before, 
+.fl-openmandriva::before, 
+.fl-pclinuxos::before, 
+.fl-pureos::before, 
+.fl-q4os::before, 
+.fl-rebornos::before, 
+.fl-regolith::before, 
+.fl-siduction::before, 
+.fl-slitaz::before, 
+.fl-smartos::before, 
+.fl-steamos::before, 
+.fl-truenas-core::before, 
+.fl-trueos::before, 
+.fl-tuxedoos::before, 
+.fl-ubuntu-budgie::before, 
+.fl-ubuntu-kylin::before, 
+.fl-ubuntu-mate::before, 
+.fl-ubuntu-studio::before, 
+.fl-ultimate-edition::before, 
+.fl-ultramarine::before, 
+.fl-vxlinux::before, 
+.fl-windows::before, 
+.fl-xubuntu::before
  {
   display: inline-block;
   font-family: "font-logos";
@@ -198,7 +243,11 @@
   content: "\f310";
 }
 .fl-mandriva::before {
-  content: "\f311";
+  content: "\f38e";
+}
+.fl-fw.fl-mandriva::before {
+  font-size: 0.7062068965517241em;
+  line-height: 1.416015625em;
 }
 .fl-manjaro::before {
   content: "\f312";
@@ -256,6 +305,10 @@
 }
 .fl-flathub::before {
   content: "\f324";
+}
+.fl-fw.fl-flathub::before {
+  font-size: 0.7840735068912711em;
+  line-height: 1.275390625em;
 }
 .fl-gnu-guix::before {
   content: "\f325";
@@ -376,7 +429,7 @@
   content: "\f346";
 }
 .fl-biglinux::before {
-  content: "\f347";
+  content: "\f37e";
 }
 .fl-crystal::before {
   content: "\f348";
@@ -422,6 +475,10 @@
 }
 .fl-dwm::before {
   content: "\f356";
+}
+.fl-fw.fl-dwm::before {
+  font-size: 0.4165988608624898em;
+  line-height: 2.400390625em;
 }
 .fl-enlightenment::before {
   content: "\f357";
@@ -527,19 +584,178 @@
 .fl-agarimos::before {
   content: "\f376";
 }
-.fl-dietpi::before {
+.fl-aix::before {
   content: "\f377";
 }
-.fl-haiku::before {
+.fl-android::before {
   content: "\f378";
+}
+.fl-antix::before {
+  content: "\f379";
+}
+.fl-fw.fl-antix::before {
+  font-size: 0.9715370018975332em;
+  line-height: 1.029296875em;
+}
+.fl-archbang::before {
+  content: "\f37a";
+}
+.fl-aryalinux::before {
+  content: "\f37b";
+}
+.fl-athenaos::before {
+  content: "\f37c";
+}
+.fl-backbox::before {
+  content: "\f37d";
+}
+.fl-bodhi::before {
+  content: "\f37f";
+}
+.fl-bunsenlabs::before {
+  content: "\f380";
+}
+.fl-cereus::before {
+  content: "\f381";
+}
+.fl-fw.fl-cereus::before {
+  font-size: 0.7975077881619937em;
+  line-height: 1.25390625em;
+}
+.fl-dietpi::before {
+  content: "\f382";
+}
+.fl-eos::before {
+  content: "\f383";
+}
+.fl-freedos::before {
+  content: "\f384";
+}
+.fl-fw.fl-freedos::before {
+  font-size: 0.8258064516129032em;
+  line-height: 1.2109375em;
+}
+.fl-ghostbsd::before {
+  content: "\f385";
+}
+.fl-haiku::before {
+  content: "\f386";
 }
 .fl-fw.fl-haiku::before {
   font-size: 0.9394495412844037em;
   line-height: 1.064453125em;
 }
+.fl-linux-lite::before {
+  content: "\f387";
+}
+.fl-linux-lite-inverse::before {
+  content: "\f388";
+}
+.fl-linuxmint2::before {
+  content: "\f389";
+}
+.fl-lmde::before {
+  content: "\f38a";
+}
+.fl-lubuntu::before {
+  content: "\f38b";
+}
+.fl-mabox::before {
+  content: "\f38c";
+}
+.fl-macos::before {
+  content: "\f38d";
+}
+.fl-midnightbsd::before {
+  content: "\f38f";
+}
 .fl-netboot::before {
-  content: "\f379";
+  content: "\f390";
+}
+.fl-fw.fl-netboot::before {
+  font-size: 0.6684073107049608em;
+  line-height: 1.49609375em;
+}
+.fl-netbsd::before {
+  content: "\f391";
+}
+.fl-nitrux::before {
+  content: "\f392";
+}
+.fl-nobara::before {
+  content: "\f393";
+}
+.fl-openmandriva::before {
+  content: "\f394";
+}
+.fl-pclinuxos::before {
+  content: "\f395";
+}
+.fl-pureos::before {
+  content: "\f396";
+}
+.fl-q4os::before {
+  content: "\f3a0";
+}
+.fl-fw.fl-q4os::before {
+  font-size: 0.9980506822612085em;
+  line-height: 1.001953125em;
+}
+.fl-rebornos::before {
+  content: "\f3a1";
+}
+.fl-regolith::before {
+  content: "\f3a2";
+}
+.fl-fw.fl-regolith::before {
+  font-size: 0.8504983388704319em;
+  line-height: 1.17578125em;
+}
+.fl-siduction::before {
+  content: "\f3a3";
 }
 .fl-slitaz::before {
-  content: "\f37a";
+  content: "\f3a4";
+}
+.fl-smartos::before {
+  content: "\f3a5";
+}
+.fl-steamos::before {
+  content: "\f3a6";
+}
+.fl-truenas-core::before {
+  content: "\f3a7";
+}
+.fl-trueos::before {
+  content: "\f3a8";
+}
+.fl-tuxedoos::before {
+  content: "\f3a9";
+}
+.fl-ubuntu-budgie::before {
+  content: "\f3aa";
+}
+.fl-ubuntu-kylin::before {
+  content: "\f3ab";
+}
+.fl-ubuntu-mate::before {
+  content: "\f3ac";
+}
+.fl-ubuntu-studio::before {
+  content: "\f3ad";
+}
+.fl-ultimate-edition::before {
+  content: "\f3ae";
+}
+.fl-ultramarine::before {
+  content: "\f3af";
+}
+.fl-vxlinux::before {
+  content: "\f3b0";
+}
+.fl-windows::before {
+  content: "\f3b1";
+}
+.fl-xubuntu::before {
+  content: "\f3b2";
 }

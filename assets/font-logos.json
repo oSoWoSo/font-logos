@@ -111,9 +111,9 @@
       "variant": false
     },
     "mandriva": {
-      "offset": 17,
+      "offset": 142,
       "name": "Mandriva",
-      "codepoint": 62225,
+      "codepoint": 62350,
       "variant": false
     },
     "manjaro": {
@@ -435,9 +435,9 @@
       "variant": false
     },
     "biglinux": {
-      "offset": 71,
-      "name": "BigLinux",
-      "codepoint": 62279,
+      "offset": 126,
+      "name": "Big Linux",
+      "codepoint": 62334,
       "variant": false
     },
     "crystal": {
@@ -722,28 +722,298 @@
       "codepoint": 62326,
       "variant": false
     },
-    "dietpi": {
+    "aix": {
       "offset": 119,
-      "name": "DietPi",
+      "name": "aix",
       "codepoint": 62327,
       "variant": false
     },
-    "haiku": {
+    "android": {
       "offset": 120,
-      "name": "Haiku",
+      "name": "Android",
       "codepoint": 62328,
       "variant": false
     },
-    "netboot": {
+    "antix": {
       "offset": 121,
-      "name": "netboot.xyz",
+      "name": "Antix",
       "codepoint": 62329,
       "variant": false
     },
-    "slitaz": {
+    "archbang": {
       "offset": 122,
-      "name": "Slitaz",
+      "name": "Archbang",
       "codepoint": 62330,
+      "variant": false
+    },
+    "aryalinux": {
+      "offset": 123,
+      "name": "Arya Linux",
+      "codepoint": 62331,
+      "variant": false
+    },
+    "athenaos": {
+      "offset": 124,
+      "name": "Athena OS",
+      "codepoint": 62332,
+      "variant": false
+    },
+    "backbox": {
+      "offset": 125,
+      "name": "BackBox",
+      "codepoint": 62333,
+      "variant": false
+    },
+    "bodhi": {
+      "offset": 127,
+      "name": "Bodhi Linux",
+      "codepoint": 62335,
+      "variant": false
+    },
+    "bunsenlabs": {
+      "offset": 128,
+      "name": "bunsenlabs",
+      "codepoint": 62336,
+      "variant": false
+    },
+    "cereus": {
+      "offset": 129,
+      "name": "Cereus Linux",
+      "codepoint": 62337,
+      "variant": false
+    },
+    "dietpi": {
+      "offset": 130,
+      "name": "DietPi",
+      "codepoint": 62338,
+      "variant": false
+    },
+    "eos": {
+      "offset": 131,
+      "name": "/e/ OS",
+      "codepoint": 62339,
+      "variant": false
+    },
+    "freedos": {
+      "offset": 132,
+      "name": "FreeDOS",
+      "codepoint": 62340,
+      "variant": false
+    },
+    "ghostbsd": {
+      "offset": 133,
+      "name": "GhostBSD",
+      "codepoint": 62341,
+      "variant": false
+    },
+    "haiku": {
+      "offset": 134,
+      "name": "Haiku",
+      "codepoint": 62342,
+      "variant": false
+    },
+    "linux-lite": {
+      "offset": 135,
+      "name": "Linux Lite",
+      "codepoint": 62343,
+      "variant": false
+    },
+    "linux-lite-inverse": {
+      "offset": 136,
+      "name": "Linux Lite",
+      "codepoint": 62344,
+      "variant": true
+    },
+    "linuxmint2": {
+      "offset": 137,
+      "name": "Linux Mint",
+      "codepoint": 62345,
+      "variant": false
+    },
+    "lmde": {
+      "offset": 138,
+      "name": "Linux Mint Debian Edition",
+      "codepoint": 62346,
+      "variant": false
+    },
+    "lubuntu": {
+      "offset": 139,
+      "name": "Lubuntu",
+      "codepoint": 62347,
+      "variant": false
+    },
+    "mabox": {
+      "offset": 140,
+      "name": "Mabox",
+      "codepoint": 62348,
+      "variant": false
+    },
+    "macos": {
+      "offset": 141,
+      "name": "macOS",
+      "codepoint": 62349,
+      "variant": false
+    },
+    "midnightbsd": {
+      "offset": 143,
+      "name": "MidnightBSD",
+      "codepoint": 62351,
+      "variant": false
+    },
+    "netboot": {
+      "offset": 144,
+      "name": "netboot.xyz",
+      "codepoint": 62352,
+      "variant": false
+    },
+    "netbsd": {
+      "offset": 145,
+      "name": "netBSD",
+      "codepoint": 62353,
+      "variant": false
+    },
+    "nitrux": {
+      "offset": 146,
+      "name": "NitruX",
+      "codepoint": 62354,
+      "variant": false
+    },
+    "nobara": {
+      "offset": 147,
+      "name": "Nobara",
+      "codepoint": 62355,
+      "variant": false
+    },
+    "openmandriva": {
+      "offset": 148,
+      "name": "Open Mandriva",
+      "codepoint": 62356,
+      "variant": false
+    },
+    "pclinuxos": {
+      "offset": 149,
+      "name": "PCLinuxOS",
+      "codepoint": 62357,
+      "variant": false
+    },
+    "pureos": {
+      "offset": 150,
+      "name": "PureOS",
+      "codepoint": 62358,
+      "variant": false
+    },
+    "q4os": {
+      "offset": 160,
+      "name": "Q4OS",
+      "codepoint": 62368,
+      "variant": false
+    },
+    "rebornos": {
+      "offset": 161,
+      "name": "RebornOS",
+      "codepoint": 62369,
+      "variant": false
+    },
+    "regolith": {
+      "offset": 162,
+      "name": "Regolith",
+      "codepoint": 62370,
+      "variant": false
+    },
+    "siduction": {
+      "offset": 163,
+      "name": "siduction",
+      "codepoint": 62371,
+      "variant": false
+    },
+    "slitaz": {
+      "offset": 164,
+      "name": "Slitaz",
+      "codepoint": 62372,
+      "variant": false
+    },
+    "smartos": {
+      "offset": 165,
+      "name": "smartos",
+      "codepoint": 62373,
+      "variant": false
+    },
+    "steamos": {
+      "offset": 166,
+      "name": "SteamOS",
+      "codepoint": 62374,
+      "variant": false
+    },
+    "truenas-core": {
+      "offset": 167,
+      "name": "TrueNAS core",
+      "codepoint": 62375,
+      "variant": false
+    },
+    "trueos": {
+      "offset": 168,
+      "name": "TrueOS",
+      "codepoint": 62376,
+      "variant": false
+    },
+    "tuxedoos": {
+      "offset": 169,
+      "name": "Tuxedo OS",
+      "codepoint": 62377,
+      "variant": false
+    },
+    "ubuntu-budgie": {
+      "offset": 170,
+      "name": "Ubuntu Budgie",
+      "codepoint": 62378,
+      "variant": false
+    },
+    "ubuntu-kylin": {
+      "offset": 171,
+      "name": "Ubuntu Kylin",
+      "codepoint": 62379,
+      "variant": false
+    },
+    "ubuntu-mate": {
+      "offset": 172,
+      "name": "Ubuntu Mate",
+      "codepoint": 62380,
+      "variant": false
+    },
+    "ubuntu-studio": {
+      "offset": 173,
+      "name": "Ubuntu Studio",
+      "codepoint": 62381,
+      "variant": false
+    },
+    "ultimate-edition": {
+      "offset": 174,
+      "name": "Ultimate Edition",
+      "codepoint": 62382,
+      "variant": false
+    },
+    "ultramarine": {
+      "offset": 175,
+      "name": "Ultramarine",
+      "codepoint": 62383,
+      "variant": false
+    },
+    "vxlinux": {
+      "offset": 176,
+      "name": "VXlinux",
+      "codepoint": 62384,
+      "variant": false
+    },
+    "windows": {
+      "offset": 177,
+      "name": "Windows",
+      "codepoint": 62385,
+      "variant": false
+    },
+    "xubuntu": {
+      "offset": 178,
+      "name": "Xubuntu",
+      "codepoint": 62386,
       "variant": false
     }
   }
