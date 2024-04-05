@@ -119,7 +119,7 @@
       "width": 394
     },
     "kalilinux": {
-      "width": 689
+      "width": 683
     },
     "linuxlite": {
       "width": 448
@@ -245,7 +245,7 @@
       "width": 513
     },
     "truenas-core": {
-      "width": 371
+      "width": 493
     },
     "trueos": {
       "width": 390
@@ -303,6 +303,36 @@
     },
     "zorin": {
       "width": 500
+    },
+    "asahilinux": {
+      "width": 489
+    },
+    "deepin": {
+      "width": 512
+    },
+    "kaios": {
+      "width": 432
+    },
+    "kdeneon": {
+      "width": 512
+    },
+    "lineageos": {
+      "width": 512
+    },
+    "locos": {
+      "width": 511
+    },
+    "reactos": {
+      "width": 512
+    },
+    "sailfishos": {
+      "width": 512
+    },
+    "slint": {
+      "width": 372
+    },
+    "ubuntu-unity": {
+      "width": 508
     }
   }
 }

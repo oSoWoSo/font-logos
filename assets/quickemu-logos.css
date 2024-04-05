@@ -106,7 +106,17 @@
 .fl-whonix::before, 
 .fl-windows::before, 
 .fl-xerolinux::before, 
-.fl-zorin::before
+.fl-zorin::before, 
+.fl-asahilinux::before, 
+.fl-deepin::before, 
+.fl-kaios::before, 
+.fl-kdeneon::before, 
+.fl-lineageos::before, 
+.fl-locos::before, 
+.fl-reactos::before, 
+.fl-sailfishos::before, 
+.fl-slint::before, 
+.fl-ubuntu-unity::before
  {
   display: inline-block;
   font-family: "quickemu-logos";
@@ -261,8 +271,8 @@
   content: "\f327";
 }
 .fl-fw.fl-kalilinux::before {
-  font-size: 0.7431059506531205em;
-  line-height: 1.345703125em;
+  font-size: 0.7496339677891655em;
+  line-height: 1.333984375em;
 }
 .fl-linuxlite::before {
   content: "\f328";
@@ -470,4 +480,34 @@
 }
 .fl-zorin::before {
   content: "\f364";
+}
+.fl-asahilinux::before {
+  content: "\f365";
+}
+.fl-deepin::before {
+  content: "\f366";
+}
+.fl-kaios::before {
+  content: "\f367";
+}
+.fl-kdeneon::before {
+  content: "\f368";
+}
+.fl-lineageos::before {
+  content: "\f369";
+}
+.fl-locos::before {
+  content: "\f36a";
+}
+.fl-reactos::before {
+  content: "\f36b";
+}
+.fl-sailfishos::before {
+  content: "\f36c";
+}
+.fl-slint::before {
+  content: "\f36d";
+}
+.fl-ubuntu-unity::before {
+  content: "\f36e";
 }

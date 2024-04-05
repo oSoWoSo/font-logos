@@ -76,7 +76,7 @@
     },
     "arcolinux": {
       "offset": 11,
-      "name": "ArcoLinux",
+      "name": "Arco Linux",
       "codepoint": 62219,
       "variant": false
     },
@@ -612,6 +612,66 @@
       "offset": 100,
       "name": "Zorin OS",
       "codepoint": 62308,
+      "variant": false
+    },
+    "asahilinux": {
+      "offset": 101,
+      "name": "Asahi Linux",
+      "codepoint": 62309,
+      "variant": false
+    },
+    "deepin": {
+      "offset": 102,
+      "name": "Deepin",
+      "codepoint": 62310,
+      "variant": false
+    },
+    "kaios": {
+      "offset": 103,
+      "name": "KaiOS",
+      "codepoint": 62311,
+      "variant": false
+    },
+    "kdeneon": {
+      "offset": 104,
+      "name": "KDE Neon",
+      "codepoint": 62312,
+      "variant": false
+    },
+    "lineageos": {
+      "offset": 105,
+      "name": "Lineage OS",
+      "codepoint": 62313,
+      "variant": false
+    },
+    "locos": {
+      "offset": 106,
+      "name": "Locos",
+      "codepoint": 62314,
+      "variant": false
+    },
+    "reactos": {
+      "offset": 107,
+      "name": "ReactOS",
+      "codepoint": 62315,
+      "variant": false
+    },
+    "sailfishos": {
+      "offset": 108,
+      "name": "Sailfish OS",
+      "codepoint": 62316,
+      "variant": false
+    },
+    "slint": {
+      "offset": 109,
+      "name": "Slint",
+      "codepoint": 62317,
+      "variant": false
+    },
+    "ubuntu-unity": {
+      "offset": 110,
+      "name": "Ubuntu Unity",
+      "codepoint": 62318,
       "variant": false
     }
   }
