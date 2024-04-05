@@ -46,11 +46,11 @@ jobs:
         run: |
           make
 
-      - name: Crate archive
+      - name: Create archive
         id: archive
         run: |
           make pack
-          ZIPFILE=$(ls font-logos-*zip )
+          ZIPFILE=$(ls quickemu-logos-*zip )
           echo "ZIPFILE=${ZIPFILE}"
           echo "filename=${ZIPFILE}" >> $GITHUB_OUTPUT
 

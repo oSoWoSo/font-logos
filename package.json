@@ -1,25 +1,25 @@
 {
-  "name": "font-logos",
-  "description": "An icon font providing popular linux distros' logos",
-  "version": "1.2.0",
-  "style": "assets/font-logos.css",
+  "name": "quickemu-logos",
+  "description": "An icon font providing Operating System logos",
+  "version": "0.0.1",
+  "style": "assets/quickemu-logos.css",
   "authors": [
-    "Lukas W (https://github.com/Lukas-W)"
+    "zen0bit (https://github.com/zen0bit)"
   ],
   "license": "Unlicense",
-  "homepage": "https://github.com/Lukas-W/font-logos",
+  "homepage": "https://github.com/osowoso/quickemu-logos",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lukas-W/font-logos.git"
+    "url": "git+https://github.com/osowoso/quickemu-logos.git"
   },
   "scripts": {
     "build": "make"
   },
   "files": [
-    "assets/font-logos.css",
-    "assets/font-logos.ttf",
-    "assets/font-logos.woff",
-    "assets/font-logos.woff2",
+    "assets/quickemu-logos.css",
+    "assets/quickemu-logos.ttf",
+    "assets/quickemu-logos.woff",
+    "assets/quickemu-logos.woff2",
     "vectors/*",
     "README.md"
   ],

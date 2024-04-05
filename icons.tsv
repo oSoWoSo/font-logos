@@ -1,119 +1,102 @@
-offset	name					id
-0		Alpine					alpine
-1		AOSC OS					aosc
-2		Apple					apple
-3		Arch Linux				archlinux
-4		CentOS					centos
-5		CoreOS					coreos
-6		Debian					debian
-7		Devuan					devuan
-8		Docker					docker
-9		elementary OS			elementary
-10		Fedora					fedora
-11		Fedora (inverse)		fedora-inverse
-12		FreeBSD					freebsd
-13		Gentoo					gentoo
-14		Linux Mint				linuxmint
-15		Linux Mint (inverse)	linuxmint-inverse
-16		Mageia					mageia
-17		Mandriva				mandriva
-18		Manjaro					manjaro
-19		NixOS					nixos
-20		OpenSUSE				opensuse
-21		Raspberry pi			raspberry-pi
-22		Red Hat					redhat
-23		Sabayon					sabayon
-24		Slackware				slackware
-25		Slackware (inverse)		slackware-inverse
-26		Tux						tux
-27		Ubuntu					ubuntu
-28		Ubuntu (inverse)		ubuntu-inverse
-29		Alma Linux				almalinux
-30		ArchLabs				archlabs
-31		Artix Linux				artix
-32		Budgie					budgie
-33		Deepin					deepin
-34		Endeavour OS			endeavour
-35		Ferris					ferris
-36		Flathub					flathub
-37		GNU Guix				gnu-guix
-38		illumos					illumos
-39		Kali Linux				kali-linux
-40		OpenBSD					openbsd
-41		Parrot OS				parrot
-42		Pop!_OS					pop-os
-43		Rocky Linux				rocky-linux
-44		Snappy					snappy
-45		Solus					solus
-46		Void					void
-47		Zorin OS				zorin
-48		Codeberg			    codeberg
-49		KDE Neon				kde-neon
-50		KDE Plasma				kde-plasma
-51		Kubuntu					kubuntu
-52		Kubuntu (inverse)			kubuntu-inverse
-53		Forgejo					forgejo
-54		FreeCAD					freecad
-55		Garuda Linux				garuda
-56		GIMP					gimp
-57		Gitea					gitea
-58		Hyperbola GNU/Linux-libre		hyperbola
-59		Inkscape				inkscape
-60		Kdenlive				kdenlive
-61		Krita					krita
-62		LXLE Linux				lxle
-63		MX Linux				mxlinux
-64		Parabola GNU/Linux-libre		parabola
-65		Puppy Linux				puppy
-66		QubesOS					qubesos
-67		Tails					tails
-68		Trisquel GNU/Linux			trisquel
-69		Archcraft				archcraft
-70		ArcoLinux				arcolinux
-71		BigLinux				biglinux
-72		Crystal Linux				crystal
-73		Loc-OS					locos
-74		XeroLinux				xerolinux
-75		Arduino					arduino
-76		KiCad					kicad
-77		Octoprint				octoprint
-78		OpenSCAD				openscad
-79		OSH					osh
-80		OSHWA					oshwa
-81		Prusa Slicer				prusaslicer
-82		RepRap					reprap
-83		RISC-V					riscv
-84		Awesome WM				awesome
-85		bspwm					bspwm
-86		dwm					dwm
-87		Enlightenment				enlightenment
-88		Fluxbox					fluxbox
-89		Hyprland				hyprland
-90		i3					i3
-91		JWM					jwm
-92		Qtile					qtile
-93		Sway					sway
-94		Xmonad					xmonad
-95		Cinnamon				cinnamon
-96		freedesktop.org				freedesktop
-97		GNOME					gnome
-98		GTK					gtk
-99		LXDE					lxde
-100		LXQt					lxqt
-101		MATE					mate
-102		Vanilla OS				vanilla
-103		Wayland					wayland
-104		XFCE					xfce
-105		Xorg					xorg
-106		F-droid					fdroid
-107		FOSDEM					fosdem
-108		OSI					osi
-109		Wikimedia				wikimedia
-110		mpv					mpv
-111		Neovim					neovim
-112		Thunderbird				thunderbird
-113		Tor Browser				tor
-114		VS Codium				vscodium
-115		KDE					kde
-116		PostmarketOS				postmarketos
-117		Qt 					qt
+offset	name						id
+0		Tux							tux
+1		Q							q
+2		Agarim OS					agarimos
+3		Alma Linux					almalinux
+4		Alpine						alpine
+5		Android						android
+6		Antix						antix
+7		Archbang					archbang
+8		Archcraft					archcraft
+9		ArchLabs					archlabs
+10		Arch Linux					archlinux
+11		ArcoLinux					arcolinux
+12		Artix Linux					artixlinux
+13		Arya Linux					aryalinux
+14		Athena OS					athenaos
+15		BackBox						backbox
+16		BigLinux					biglinux
+17		Bodhi Linux					bodhi
+18		bunsenlabs					bunsenlabs
+19		CentOS						centos
+20		Cereus Linux				cereus
+21		CoreOS						coreos
+22		Crystal Linux				crystal
+23		Debian						debian
+24		Devuan						devuan
+25		DietPi						dietpi
+26		/e/ OS						eos
+27		elementary OS				elementary
+28		Endeavour OS				endeavouros
+29		Fedora						fedora
+30		FreeBSD						freebsd
+31		FreeDOS						freedos
+32		Garuda Linux				garuda
+33		Gentoo						gentoo
+34		GhostBSD					ghostbsd
+35		GNU Guix					gnuguix
+36		Haiku						haiku
+37		Hyperbola GNU/Linux-libre	hyperbola
+38		illumos						illumos
+39		Kali Linux					kalilinux
+40		Linux Lite					linuxlite
+41		Linux Mint					linuxmint
+42		Linux Mint Debian Edition	lmde
+43		LXLE Linux					lxle
+44		Mabox						mabox
+45		macOS						macos
+46		Mageia						mageia
+47		Mandriva					mandriva
+48		Manjaro						manjaro
+49		MidnightBSD					midnightbsd
+50		MX Linux					mxlinux
+51		netBSD						netbsd
+52		netboot.xyz					netbootxyz
+53		NitruX						nitrux
+54		NixOS						nixos
+55		Nobara						nobara
+56		Open Mandriva				openmandriva
+57		OpenBSD						openbsd
+58		OpenSUSE					opensuse
+59		Parabola GNU/Linux-libre	parabola
+60		Parrot security				parrotsecurity
+61		Puppy Linux					puppy
+62		PCLinuxOS					pclinuxos
+63		Pop!_OS						popos
+64		PostmarketOS				postmarketos
+65		PureOS						pureos
+66		Q4OS						q4os
+67		QubesOS						qubesos
+68		Raspberry pi				raspberry-pi
+69		RebornOS					rebornos
+70		Regolith					regolith
+71		Rocky Linux					rockylinux
+72		Sabayon						sabayon
+73		Slackware					slackware
+74		Slitaz						slitaz
+75		smartos						smartos
+76		siduction					siduction
+77		Solus						solus
+78		SteamOS						steamos
+79		Tails						tails
+80		Trisquel GNU/Linux			trisquel
+81		TrueNAS core				truenas-core
+82		TrueOS						trueos
+83		Tuxedo OS					tuxedoos
+84		Ubuntu						ubuntu
+85		Kubuntu						kubuntu
+86		Lubuntu						lubuntu
+87		Xubuntu						xubuntu
+88		Ubuntu Budgie				ubuntu-budgie
+89		Ubuntu Kylin				ubuntu-kylin
+90		Ubuntu Mate					ubuntu-mate
+91		Ubuntu Studio				ubuntu-studio
+92		Ultimate Edition			ultimateedition
+93		Ultramarine					ultramarine
+94		Vanilla OS					vanilla
+95		Void Linux					voidlinux
+96		VXlinux						vxlinux
+97		Whonix						whonix
+98		Windows						windows
+99		XeroLinux					xerolinux
+100		Zorin OS					zorin
