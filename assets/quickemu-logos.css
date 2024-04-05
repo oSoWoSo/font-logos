@@ -7,7 +7,7 @@
   src:url("quickemu-logos.woff?v=0.0.1") format("woff"),url("quickemu-logos.woff2?v=0.0.1") format("woff2"),url("quickemu-logos.ttf?v=0.0.1") format("truetype")}
 
 .fl-tux::before, 
-.fl-q::before, 
+.fl-quickemu::before, 
 .fl-agarimos::before, 
 .fl-almalinux::before, 
 .fl-alpine::before, 
@@ -137,12 +137,8 @@
 .fl-tux::before {
   content: "\f300";
 }
-.fl-q::before {
+.fl-quickemu::before {
   content: "\f301";
-}
-.fl-fw.fl-q::before {
-  font-size: 0.8244766505636071em;
-  line-height: 1.212890625em;
 }
 .fl-agarimos::before {
   content: "\f302";
