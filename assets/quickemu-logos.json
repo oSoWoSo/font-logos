@@ -80,7 +80,7 @@
       "codepoint": 62219,
       "variant": false
     },
-    "artix": {
+    "artixlinux": {
       "offset": 12,
       "name": "Artix Linux",
       "codepoint": 62220,
@@ -176,7 +176,7 @@
       "codepoint": 62235,
       "variant": false
     },
-    "endeavour": {
+    "endeavouros": {
       "offset": 28,
       "name": "Endeavour OS",
       "codepoint": 62236,
@@ -368,9 +368,9 @@
       "codepoint": 62267,
       "variant": false
     },
-    "parrot": {
+    "parrotsecurity": {
       "offset": 60,
-      "name": "Parrot OS",
+      "name": "Parrot security",
       "codepoint": 62268,
       "variant": false
     },
@@ -578,9 +578,9 @@
       "codepoint": 62302,
       "variant": false
     },
-    "void": {
+    "voidlinux": {
       "offset": 95,
-      "name": "Void",
+      "name": "Void Linux",
       "codepoint": 62303,
       "variant": false
     },
@@ -590,22 +590,28 @@
       "codepoint": 62304,
       "variant": false
     },
-    "windows": {
+    "whonix": {
       "offset": 97,
-      "name": "Windows",
+      "name": "Whonix",
       "codepoint": 62305,
       "variant": false
     },
-    "xerolinux": {
+    "windows": {
       "offset": 98,
-      "name": "XeroLinux",
+      "name": "Windows",
       "codepoint": 62306,
       "variant": false
     },
-    "zorin": {
+    "xerolinux": {
       "offset": 99,
-      "name": "Zorin OS",
+      "name": "XeroLinux",
       "codepoint": 62307,
+      "variant": false
+    },
+    "zorin": {
+      "offset": 100,
+      "name": "Zorin OS",
+      "codepoint": 62308,
       "variant": false
     }
   }

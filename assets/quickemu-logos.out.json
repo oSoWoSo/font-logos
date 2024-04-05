@@ -2,7 +2,7 @@
   "em": 512,
   "icons": {
     "tux": {
-      "width": 438
+      "width": 422
     },
     "q": {
       "width": 621
@@ -14,7 +14,7 @@
       "width": 512
     },
     "alpine": {
-      "width": 489
+      "width": 512
     },
     "android": {
       "width": 512
@@ -37,7 +37,7 @@
     "arcolinux": {
       "width": 510
     },
-    "artix": {
+    "artixlinux": {
       "width": 499
     },
     "aryalinux": {
@@ -85,8 +85,8 @@
     "elementary": {
       "width": 512
     },
-    "endeavour": {
-      "width": 509
+    "endeavouros": {
+      "width": 512
     },
     "fedora": {
       "width": 512
@@ -119,13 +119,13 @@
       "width": 394
     },
     "kalilinux": {
-      "width": 683
+      "width": 689
     },
     "linuxlite": {
       "width": 448
     },
     "linuxmint": {
-      "width": 491
+      "width": 512
     },
     "lmde": {
       "width": 512
@@ -152,7 +152,7 @@
       "width": 512
     },
     "mxlinux": {
-      "width": 508
+      "width": 512
     },
     "netbsd": {
       "width": 512
@@ -173,7 +173,7 @@
       "width": 512
     },
     "openbsd": {
-      "width": 514
+      "width": 512
     },
     "opensuse": {
       "width": 512
@@ -181,8 +181,8 @@
     "parabola": {
       "width": 512
     },
-    "parrot": {
-      "width": 353
+    "parrotsecurity": {
+      "width": 512
     },
     "puppy": {
       "width": 505
@@ -286,11 +286,14 @@
     "vanilla": {
       "width": 512
     },
-    "void": {
-      "width": 499
+    "voidlinux": {
+      "width": 512
     },
     "vxlinux": {
       "width": 511
+    },
+    "whonix": {
+      "width": 512
     },
     "windows": {
       "width": 512

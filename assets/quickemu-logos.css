@@ -18,7 +18,7 @@
 .fl-archlabs::before, 
 .fl-archlinux::before, 
 .fl-arcolinux::before, 
-.fl-artix::before, 
+.fl-artixlinux::before, 
 .fl-aryalinux::before, 
 .fl-athenaos::before, 
 .fl-backbox::before, 
@@ -34,7 +34,7 @@
 .fl-dietpi::before, 
 .fl-eos::before, 
 .fl-elementary::before, 
-.fl-endeavour::before, 
+.fl-endeavouros::before, 
 .fl-fedora::before, 
 .fl-freebsd::before, 
 .fl-freedos::before, 
@@ -66,7 +66,7 @@
 .fl-openbsd::before, 
 .fl-opensuse::before, 
 .fl-parabola::before, 
-.fl-parrot::before, 
+.fl-parrotsecurity::before, 
 .fl-puppy::before, 
 .fl-pclinuxos::before, 
 .fl-popos::before, 
@@ -101,8 +101,9 @@
 .fl-ultimateedition::before, 
 .fl-ultramarine::before, 
 .fl-vanilla::before, 
-.fl-void::before, 
+.fl-voidlinux::before, 
 .fl-vxlinux::before, 
+.fl-whonix::before, 
 .fl-windows::before, 
 .fl-xerolinux::before, 
 .fl-zorin::before
@@ -167,7 +168,7 @@
 .fl-arcolinux::before {
   content: "\f30b";
 }
-.fl-artix::before {
+.fl-artixlinux::before {
   content: "\f30c";
 }
 .fl-aryalinux::before {
@@ -219,7 +220,7 @@
 .fl-elementary::before {
   content: "\f31b";
 }
-.fl-endeavour::before {
+.fl-endeavouros::before {
   content: "\f31c";
 }
 .fl-fedora::before {
@@ -264,8 +265,8 @@
   content: "\f327";
 }
 .fl-fw.fl-kalilinux::before {
-  font-size: 0.7496339677891655em;
-  line-height: 1.333984375em;
+  font-size: 0.7431059506531205em;
+  line-height: 1.345703125em;
 }
 .fl-linuxlite::before {
   content: "\f328";
@@ -329,17 +330,13 @@
 .fl-openbsd::before {
   content: "\f339";
 }
-.fl-fw.fl-openbsd::before {
-  font-size: 0.9961089494163424em;
-  line-height: 1.00390625em;
-}
 .fl-opensuse::before {
   content: "\f33a";
 }
 .fl-parabola::before {
   content: "\f33b";
 }
-.fl-parrot::before {
+.fl-parrotsecurity::before {
   content: "\f33c";
 }
 .fl-puppy::before {
@@ -460,18 +457,21 @@
 .fl-vanilla::before {
   content: "\f35e";
 }
-.fl-void::before {
+.fl-voidlinux::before {
   content: "\f35f";
 }
 .fl-vxlinux::before {
   content: "\f360";
 }
-.fl-windows::before {
+.fl-whonix::before {
   content: "\f361";
 }
-.fl-xerolinux::before {
+.fl-windows::before {
   content: "\f362";
 }
-.fl-zorin::before {
+.fl-xerolinux::before {
   content: "\f363";
+}
+.fl-zorin::before {
+  content: "\f364";
 }
