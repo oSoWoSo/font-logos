@@ -1,0 +1,305 @@
+{
+  "em": 512,
+  "icons": {
+    "tux": {
+      "width": 438
+    },
+    "q": {
+      "width": 626
+    },
+    "agarimos": {
+      "width": 512
+    },
+    "almalinux": {
+      "width": 512
+    },
+    "alpine": {
+      "width": 489
+    },
+    "android": {
+      "width": 512
+    },
+    "antix": {
+      "width": 527
+    },
+    "archbang": {
+      "width": 448
+    },
+    "archcraft": {
+      "width": 512
+    },
+    "archlabs": {
+      "width": 512
+    },
+    "archlinux": {
+      "width": 512
+    },
+    "arcolinux": {
+      "width": 510
+    },
+    "artix": {
+      "width": 499
+    },
+    "aryalinux": {
+      "width": 512
+    },
+    "athenaos": {
+      "width": 512
+    },
+    "backbox": {
+      "width": 512
+    },
+    "biglinux": {
+      "width": 512
+    },
+    "bodhi": {
+      "width": 512
+    },
+    "bunsenlabs": {
+      "width": 512
+    },
+    "centos": {
+      "width": 512
+    },
+    "cereus": {
+      "width": 642
+    },
+    "coreos": {
+      "width": 496
+    },
+    "crystal": {
+      "width": 327
+    },
+    "debian": {
+      "width": 409
+    },
+    "devuan": {
+      "width": 488
+    },
+    "dietpi": {
+      "width": 400
+    },
+    "eos": {
+      "width": 512
+    },
+    "elementary": {
+      "width": 512
+    },
+    "endeavour": {
+      "width": 509
+    },
+    "fedora": {
+      "width": 512
+    },
+    "freebsd": {
+      "width": 452
+    },
+    "freedos": {
+      "width": 620
+    },
+    "garuda": {
+      "width": 499
+    },
+    "gentoo": {
+      "width": 489
+    },
+    "ghostbsd": {
+      "width": 512
+    },
+    "gnuguix": {
+      "width": 500
+    },
+    "haiku": {
+      "width": 545
+    },
+    "hyperbola": {
+      "width": 502
+    },
+    "illumos": {
+      "width": 394
+    },
+    "kalilinux": {
+      "width": 683
+    },
+    "linuxlite": {
+      "width": 448
+    },
+    "linuxmint": {
+      "width": 491
+    },
+    "lmde": {
+      "width": 512
+    },
+    "lxle": {
+      "width": 509
+    },
+    "mabox": {
+      "width": 488
+    },
+    "macos": {
+      "width": 512
+    },
+    "mageia": {
+      "width": 326
+    },
+    "mandriva": {
+      "width": 725
+    },
+    "manjaro": {
+      "width": 512
+    },
+    "midnightbsd": {
+      "width": 512
+    },
+    "mxlinux": {
+      "width": 508
+    },
+    "netbsd": {
+      "width": 512
+    },
+    "netbootxyz": {
+      "width": 766
+    },
+    "nitrux": {
+      "width": 411
+    },
+    "nixos": {
+      "width": 512
+    },
+    "nobara": {
+      "width": 504
+    },
+    "openmandriva": {
+      "width": 512
+    },
+    "openbsd": {
+      "width": 514
+    },
+    "opensuse": {
+      "width": 512
+    },
+    "parabola": {
+      "width": 512
+    },
+    "parrot": {
+      "width": 353
+    },
+    "puppy": {
+      "width": 505
+    },
+    "pclinuxos": {
+      "width": 512
+    },
+    "popos": {
+      "width": 512
+    },
+    "postmarketos": {
+      "width": 512
+    },
+    "pureos": {
+      "width": 512
+    },
+    "q4os": {
+      "width": 513
+    },
+    "qubesos": {
+      "width": 451
+    },
+    "raspberry-pi": {
+      "width": 401
+    },
+    "rebornos": {
+      "width": 512
+    },
+    "regolith": {
+      "width": 602
+    },
+    "rockylinux": {
+      "width": 512
+    },
+    "sabayon": {
+      "width": 512
+    },
+    "slackware": {
+      "width": 512
+    },
+    "slitaz": {
+      "width": 627
+    },
+    "smartos": {
+      "width": 512
+    },
+    "siduction": {
+      "width": 512
+    },
+    "solus": {
+      "width": 497
+    },
+    "steamos": {
+      "width": 506
+    },
+    "tails": {
+      "width": 398
+    },
+    "trisquel": {
+      "width": 513
+    },
+    "truenas-core": {
+      "width": 371
+    },
+    "trueos": {
+      "width": 390
+    },
+    "tuxedoos": {
+      "width": 512
+    },
+    "ubuntu": {
+      "width": 479
+    },
+    "kubuntu": {
+      "width": 510
+    },
+    "lubuntu": {
+      "width": 512
+    },
+    "xubuntu": {
+      "width": 512
+    },
+    "ubuntu-budgie": {
+      "width": 512
+    },
+    "ubuntu-kylin": {
+      "width": 512
+    },
+    "ubuntu-mate": {
+      "width": 512
+    },
+    "ubuntu-studio": {
+      "width": 511
+    },
+    "ultimateedition": {
+      "width": 512
+    },
+    "ultramarine": {
+      "width": 512
+    },
+    "vanilla": {
+      "width": 512
+    },
+    "void": {
+      "width": 499
+    },
+    "vxlinux": {
+      "width": 511
+    },
+    "windows": {
+      "width": 512
+    },
+    "xerolinux": {
+      "width": 505
+    },
+    "zorin": {
+      "width": 500
+    }
+  }
+}
