@@ -195,10 +195,6 @@
 .fl-cereus::before {
   content: "\f314";
 }
-.fl-fw.fl-cereus::before {
-  font-size: 0.7975077881619937em;
-  line-height: 1.25390625em;
-}
 .fl-coreos::before {
   content: "\f315";
 }
