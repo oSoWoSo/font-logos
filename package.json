@@ -26,5 +26,9 @@
   "devDependencies": {
     "lodash.merge": "^4.6.2",
     "nunjucks": "^3.2.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/osowoso/quickemu-logos/issues"
+  },
+  "author": "zen0bit"
 }
