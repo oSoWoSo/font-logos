@@ -10,7 +10,7 @@ offset	name						id
 8		Archcraft					archcraft
 9		ArchLabs					archlabs
 10		Arch Linux					archlinux
-11		ArcoLinux					arcolinux
+11		Arco Linux					arcolinux
 12		Artix Linux					artixlinux
 13		Arya Linux					aryalinux
 14		Athena OS					athenaos
@@ -100,3 +100,13 @@ offset	name						id
 98		Windows						windows
 99		XeroLinux					xerolinux
 100		Zorin OS					zorin
+101		Asahi Linux					asahilinux
+102		Deepin						deepin
+103		KaiOS						kaios
+104		KDE Neon					kdeneon
+105		Lineage OS					lineageos
+106		Locos						locos
+107		ReactOS						reactos
+108		Sailfish OS					sailfishos
+109		Slint						slint
+110		Ubuntu Unity				ubuntu-unity
