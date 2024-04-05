@@ -44,9 +44,10 @@ Available logos are:
 | Archcraft                 | `fl-archcraft`       | `<i class="fl-archcraft"></i>`       |  `0xf308`  | <img src="vectors/archcraft.svg" width="24">       |
 | ArchLabs                  | `fl-archlabs`        | `<i class="fl-archlabs"></i>`        |  `0xf309`  | <img src="vectors/archlabs.svg" width="24">        |
 | Arch Linux                | `fl-archlinux`       | `<i class="fl-archlinux"></i>`       |  `0xf30a`  | <img src="vectors/archlinux.svg" width="24">       |
-| ArcoLinux                 | `fl-arcolinux`       | `<i class="fl-arcolinux"></i>`       |  `0xf30b`  | <img src="vectors/arcolinux.svg" width="24">       |
+| Arco Linux                | `fl-arcolinux`       | `<i class="fl-arcolinux"></i>`       |  `0xf30b`  | <img src="vectors/arcolinux.svg" width="24">       |
 | Artix Linux               | `fl-artixlinux`      | `<i class="fl-artixlinux"></i>`      |  `0xf30c`  | <img src="vectors/artixlinux.svg" width="24">      |
 | Arya Linux                | `fl-aryalinux`       | `<i class="fl-aryalinux"></i>`       |  `0xf30d`  | <img src="vectors/aryalinux.svg" width="24">       |
+| Asahi Linux               | `fl-asahilinux`      | `<i class="fl-asahilinux"></i>`      |  `0xf365`  | <img src="vectors/asahilinux.svg" width="24">      |
 | Athena OS                 | `fl-athenaos`        | `<i class="fl-athenaos"></i>`        |  `0xf30e`  | <img src="vectors/athenaos.svg" width="24">        |
 | BackBox                   | `fl-backbox`         | `<i class="fl-backbox"></i>`         |  `0xf30f`  | <img src="vectors/backbox.svg" width="24">         |
 | BigLinux                  | `fl-biglinux`        | `<i class="fl-biglinux"></i>`        |  `0xf310`  | <img src="vectors/biglinux.svg" width="24">        |
@@ -57,6 +58,7 @@ Available logos are:
 | CoreOS                    | `fl-coreos`          | `<i class="fl-coreos"></i>`          |  `0xf315`  | <img src="vectors/coreos.svg" width="24">          |
 | Crystal Linux             | `fl-crystal`         | `<i class="fl-crystal"></i>`         |  `0xf316`  | <img src="vectors/crystal.svg" width="24">         |
 | Debian                    | `fl-debian`          | `<i class="fl-debian"></i>`          |  `0xf317`  | <img src="vectors/debian.svg" width="24">          |
+| Deepin                    | `fl-deepin`          | `<i class="fl-deepin"></i>`          |  `0xf366`  | <img src="vectors/deepin.svg" width="24">          |
 | Devuan                    | `fl-devuan`          | `<i class="fl-devuan"></i>`          |  `0xf318`  | <img src="vectors/devuan.svg" width="24">          |
 | DietPi                    | `fl-dietpi`          | `<i class="fl-dietpi"></i>`          |  `0xf319`  | <img src="vectors/dietpi.svg" width="24">          |
 | elementary OS             | `fl-elementary`      | `<i class="fl-elementary"></i>`      |  `0xf31b`  | <img src="vectors/elementary.svg" width="24">      |
@@ -72,11 +74,15 @@ Available logos are:
 | Haiku                     | `fl-haiku`           | `<i class="fl-haiku"></i>`           |  `0xf324`  | <img src="vectors/haiku.svg" width="24">           |
 | Hyperbola GNU/Linux-libre | `fl-hyperbola`       | `<i class="fl-hyperbola"></i>`       |  `0xf325`  | <img src="vectors/hyperbola.svg" width="24">       |
 | illumos                   | `fl-illumos`         | `<i class="fl-illumos"></i>`         |  `0xf326`  | <img src="vectors/illumos.svg" width="24">         |
+| KaiOS                     | `fl-kaios`           | `<i class="fl-kaios"></i>`           |  `0xf367`  | <img src="vectors/kaios.svg" width="24">           |
 | Kali Linux                | `fl-kalilinux`       | `<i class="fl-kalilinux"></i>`       |  `0xf327`  | <img src="vectors/kalilinux.svg" width="24">       |
+| KDE Neon                  | `fl-kdeneon`         | `<i class="fl-kdeneon"></i>`         |  `0xf368`  | <img src="vectors/kdeneon.svg" width="24">         |
 | Kubuntu                   | `fl-kubuntu`         | `<i class="fl-kubuntu"></i>`         |  `0xf355`  | <img src="vectors/kubuntu.svg" width="24">         |
+| Lineage OS                | `fl-lineageos`       | `<i class="fl-lineageos"></i>`       |  `0xf369`  | <img src="vectors/lineageos.svg" width="24">       |
 | Linux Lite                | `fl-linuxlite`       | `<i class="fl-linuxlite"></i>`       |  `0xf328`  | <img src="vectors/linuxlite.svg" width="24">       |
 | Linux Mint                | `fl-linuxmint`       | `<i class="fl-linuxmint"></i>`       |  `0xf329`  | <img src="vectors/linuxmint.svg" width="24">       |
 | Linux Mint Debian Edition | `fl-lmde`            | `<i class="fl-lmde"></i>`            |  `0xf32a`  | <img src="vectors/lmde.svg" width="24">            |
+| Locos                     | `fl-locos`           | `<i class="fl-locos"></i>`           |  `0xf36a`  | <img src="vectors/locos.svg" width="24">           |
 | Lubuntu                   | `fl-lubuntu`         | `<i class="fl-lubuntu"></i>`         |  `0xf356`  | <img src="vectors/lubuntu.svg" width="24">         |
 | LXLE Linux                | `fl-lxle`            | `<i class="fl-lxle"></i>`            |  `0xf32b`  | <img src="vectors/lxle.svg" width="24">            |
 | Mabox                     | `fl-mabox`           | `<i class="fl-mabox"></i>`           |  `0xf32c`  | <img src="vectors/mabox.svg" width="24">           |
@@ -105,12 +111,15 @@ Available logos are:
 | Q4OS                      | `fl-q4os`            | `<i class="fl-q4os"></i>`            |  `0xf342`  | <img src="vectors/q4os.svg" width="24">            |
 | QubesOS                   | `fl-qubesos`         | `<i class="fl-qubesos"></i>`         |  `0xf343`  | <img src="vectors/qubesos.svg" width="24">         |
 | Raspberry pi              | `fl-raspberry-pi`    | `<i class="fl-raspberry-pi"></i>`    |  `0xf344`  | <img src="vectors/raspberry-pi.svg" width="24">    |
+| ReactOS                   | `fl-reactos`         | `<i class="fl-reactos"></i>`         |  `0xf36b`  | <img src="vectors/reactos.svg" width="24">         |
 | RebornOS                  | `fl-rebornos`        | `<i class="fl-rebornos"></i>`        |  `0xf345`  | <img src="vectors/rebornos.svg" width="24">        |
 | Regolith                  | `fl-regolith`        | `<i class="fl-regolith"></i>`        |  `0xf346`  | <img src="vectors/regolith.svg" width="24">        |
 | Rocky Linux               | `fl-rockylinux`      | `<i class="fl-rockylinux"></i>`      |  `0xf347`  | <img src="vectors/rockylinux.svg" width="24">      |
 | Sabayon                   | `fl-sabayon`         | `<i class="fl-sabayon"></i>`         |  `0xf348`  | <img src="vectors/sabayon.svg" width="24">         |
+| Sailfish OS               | `fl-sailfishos`      | `<i class="fl-sailfishos"></i>`      |  `0xf36c`  | <img src="vectors/sailfishos.svg" width="24">      |
 | siduction                 | `fl-siduction`       | `<i class="fl-siduction"></i>`       |  `0xf34c`  | <img src="vectors/siduction.svg" width="24">       |
 | Slackware                 | `fl-slackware`       | `<i class="fl-slackware"></i>`       |  `0xf349`  | <img src="vectors/slackware.svg" width="24">       |
+| Slint                     | `fl-slint`           | `<i class="fl-slint"></i>`           |  `0xf36d`  | <img src="vectors/slint.svg" width="24">           |
 | Slitaz                    | `fl-slitaz`          | `<i class="fl-slitaz"></i>`          |  `0xf34a`  | <img src="vectors/slitaz.svg" width="24">          |
 | smartos                   | `fl-smartos`         | `<i class="fl-smartos"></i>`         |  `0xf34b`  | <img src="vectors/smartos.svg" width="24">         |
 | Solus                     | `fl-solus`           | `<i class="fl-solus"></i>`           |  `0xf34d`  | <img src="vectors/solus.svg" width="24">           |
@@ -126,6 +135,7 @@ Available logos are:
 | Ubuntu Kylin              | `fl-ubuntu-kylin`    | `<i class="fl-ubuntu-kylin"></i>`    |  `0xf359`  | <img src="vectors/ubuntu-kylin.svg" width="24">    |
 | Ubuntu Mate               | `fl-ubuntu-mate`     | `<i class="fl-ubuntu-mate"></i>`     |  `0xf35a`  | <img src="vectors/ubuntu-mate.svg" width="24">     |
 | Ubuntu Studio             | `fl-ubuntu-studio`   | `<i class="fl-ubuntu-studio"></i>`   |  `0xf35b`  | <img src="vectors/ubuntu-studio.svg" width="24">   |
+| Ubuntu Unity              | `fl-ubuntu-unity`    | `<i class="fl-ubuntu-unity"></i>`    |  `0xf36e`  | <img src="vectors/ubuntu-unity.svg" width="24">    |
 | Ultimate Edition          | `fl-ultimateedition` | `<i class="fl-ultimateedition"></i>` |  `0xf35c`  | <img src="vectors/ultimateedition.svg" width="24"> |
 | Ultramarine               | `fl-ultramarine`     | `<i class="fl-ultramarine"></i>`     |  `0xf35d`  | <img src="vectors/ultramarine.svg" width="24">     |
 | Vanilla OS                | `fl-vanilla`         | `<i class="fl-vanilla"></i>`         |  `0xf35e`  | <img src="vectors/vanilla.svg" width="24">         |
