@@ -19,7 +19,7 @@ fonts in your project and use the CSS classes listed below.
 
 Alternatively just link to it using a CDN such as [jsDelivr](//jsdelivr.com):
 
-	<link href="//cdn.jsdelivr.net/npm/quickemu-logos@0.0.1/assets/quickemu-logos.css" rel="stylesheet">
+	<link href="//cdn.jsdelivr.net/npm/quickemu-logos@0.0.2/assets/quickemu-logos.css" rel="stylesheet">
 
 ## Usage ##
 
@@ -107,9 +107,9 @@ Available logos are:
 | PostmarketOS              | `fl-postmarketos`    | `<i class="fl-postmarketos"></i>`    |  `0xf340`  | <img src="vectors/postmarketos.svg" width="24">    |
 | Puppy Linux               | `fl-puppy`           | `<i class="fl-puppy"></i>`           |  `0xf33d`  | <img src="vectors/puppy.svg" width="24">           |
 | PureOS                    | `fl-pureos`          | `<i class="fl-pureos"></i>`          |  `0xf341`  | <img src="vectors/pureos.svg" width="24">          |
-| Q                         | `fl-q`               | `<i class="fl-q"></i>`               |  `0xf301`  | <img src="vectors/q.svg" width="24">               |
 | Q4OS                      | `fl-q4os`            | `<i class="fl-q4os"></i>`            |  `0xf342`  | <img src="vectors/q4os.svg" width="24">            |
 | QubesOS                   | `fl-qubesos`         | `<i class="fl-qubesos"></i>`         |  `0xf343`  | <img src="vectors/qubesos.svg" width="24">         |
+| quickemu project logo     | `fl-quickemu`        | `<i class="fl-quickemu"></i>`        |  `0xf301`  | <img src="vectors/quickemu.svg" width="24">        |
 | Raspberry pi              | `fl-raspberry-pi`    | `<i class="fl-raspberry-pi"></i>`    |  `0xf344`  | <img src="vectors/raspberry-pi.svg" width="24">    |
 | ReactOS                   | `fl-reactos`         | `<i class="fl-reactos"></i>`         |  `0xf36b`  | <img src="vectors/reactos.svg" width="24">         |
 | RebornOS                  | `fl-rebornos`        | `<i class="fl-rebornos"></i>`        |  `0xf345`  | <img src="vectors/rebornos.svg" width="24">        |
