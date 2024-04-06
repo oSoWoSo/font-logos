@@ -2,7 +2,7 @@
   "name": "quickemu logos font",
   "description": "An icon font providing Operating System logos.",
   "version": "0.0.3",
-  "style": "assets/quickemu-logos.css",
+  "style": "assets/quickemu-logos-font.css",
   "authors": [
     "zen0bit (https://github.com/zen0bit)"
   ],
