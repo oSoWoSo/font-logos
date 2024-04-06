@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Fetch repo
         uses: actions/checkout@v4
-       with:
+        with:
           fetch-depth: 0
 
       - name: Switch back to quickemu branch
