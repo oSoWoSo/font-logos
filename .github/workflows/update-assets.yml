@@ -2,7 +2,7 @@ name: Update assets
 
 on:
   push:
-    branches: [ master ]
+    branches: [ quickemu ]
     paths:
       - icons.tsv
       - vectors/*
