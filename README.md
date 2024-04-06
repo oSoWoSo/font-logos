@@ -1,8 +1,8 @@
-# quickemu-logos #
+# quickemu-logos-font #
 
 ![Available logos](assets/readme-header.png)
 
-quickemu-logos is an icon font containing logos of popular Operating Systems.
+quickemu-logos-font is an icon font containing logos of popular Operating Systems.
 
 *Note:* All brand icons are trademarks of their respective owners and should only be used to represent the company or product to which they refer.
 
@@ -10,16 +10,16 @@ quickemu-logos is an icon font containing logos of popular Operating Systems.
 
 Install the font by downloading and unpacking the latest release's zip manually or installing it from npm:
 
-	npm install quickemu-logos
+	npm install quickemu-logos-font
 
-To use the font, include `assets/quickemu-logos.css` as well as the
+To use the font, include `assets/quickemu-logos-font.css` as well as the
 fonts in your project and use the CSS classes listed below.
 
-	<link href="/assets/quickemu-logos.css" rel="stylesheet">
+	<link href="/assets/quickemu-logos-font.css" rel="stylesheet">
 
 Alternatively just link to it using a CDN such as [jsDelivr](//jsdelivr.com):
 
-	<link href="//cdn.jsdelivr.net/npm/quickemu-logos@0.0.2/assets/quickemu-logos.css" rel="stylesheet">
+	<link href="//cdn.jsdelivr.net/npm/quickemu-logos-font@0.0.3/assets/quickemu-logos-font.css" rel="stylesheet">
 
 ## Usage ##
 
