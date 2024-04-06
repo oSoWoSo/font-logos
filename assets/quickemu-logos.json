@@ -1,11 +1,11 @@
 {
   "name": "quickemu-logos",
   "version": {
-    "string": "0.0.1",
+    "string": "0.0.2",
     "major": "0",
     "minor": "0",
-    "patch": "1",
-    "stable": "0.0.1"
+    "patch": "2",
+    "stable": "0.0.2"
   },
   "icons": {
     "tux": {

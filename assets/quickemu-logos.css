@@ -4,7 +4,7 @@
   font-family: "quickemu-logos";
   font-style: normal;
   font-weight: normal;
-  src:url("quickemu-logos.woff?v=0.0.1") format("woff"),url("quickemu-logos.woff2?v=0.0.1") format("woff2"),url("quickemu-logos.ttf?v=0.0.1") format("truetype")}
+  src:url("quickemu-logos.woff?v=0.0.2") format("woff"),url("quickemu-logos.woff2?v=0.0.2") format("woff2"),url("quickemu-logos.ttf?v=0.0.2") format("truetype")}
 
 .fl-tux::before, 
 .fl-quickemu::before, 
