@@ -1,4 +1,4 @@
-name := quickemu-logos-font
+name := quickemu logos font
 dest := assets
 out_json_ext := .out.json
 font_exts := .ttf .woff .woff2 $(out_json_ext)
@@ -51,5 +51,5 @@ $(font_assets)&: scripts/generate-font.py icons.tsv $(shell find vectors) $(json
 %: templates/$$*.njk icons.tsv scripts/render-template.mjs $(json_file) $(dest)/$(name)$(out_json_ext)
 	node scripts/render-template.mjs $< $@
 
-$(dest)/readme-header.png: $(dest)/readme-header.html $(font_assets) $(dest)/quickemu-logos.css
+$(dest)/readme-header.png: $(dest)/readme-header.html $(font_assets) $(dest)/quickemu-logos-font.css
 	wkhtmltoimage --enable-local-file-access --width $(preview_width) --disable-smart-width $< $@
