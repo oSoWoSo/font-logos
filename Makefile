@@ -1,4 +1,4 @@
-name := quickemu-logos
+name := quickemu-logos-font
 dest := assets
 out_json_ext := .out.json
 font_exts := .ttf .woff .woff2 $(out_json_ext)

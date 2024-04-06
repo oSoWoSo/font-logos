@@ -1,25 +1,25 @@
 {
-  "name": "quickemu-logos",
-  "description": "An icon font providing Operating System logos",
+  "name": "quickemu logos font",
+  "description": "An icon font providing Operating System logos.",
   "version": "0.0.3",
   "style": "assets/quickemu-logos.css",
   "authors": [
     "zen0bit (https://github.com/zen0bit)"
   ],
   "license": "Unlicense",
-  "homepage": "https://github.com/osowoso/quickemu-logos",
+  "homepage": "https://github.com/osowoso/quickemu-font-and-logos",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osowoso/quickemu-logos.git"
+    "url": "git+https://github.com/osowoso/quickemu-font-and-logos.git"
   },
   "scripts": {
     "build": "make"
   },
   "files": [
-    "assets/quickemu-logos.css",
-    "assets/quickemu-logos.ttf",
-    "assets/quickemu-logos.woff",
-    "assets/quickemu-logos.woff2",
+    "assets/quickemu-logos-font.css",
+    "assets/quickemu-logos-font.ttf",
+    "assets/quickemu-logos-font.woff",
+    "assets/quickemu-logos-font.woff2",
     "vectors/*",
     "README.md"
   ],
@@ -28,7 +28,7 @@
     "nunjucks": "^3.2.4"
   },
   "bugs": {
-    "url": "https://github.com/osowoso/quickemu-logos/issues"
+    "url": "https://github.com/osowoso/quickemu-font-and-logos/issues"
   },
   "author": "zen0bit"
 }
