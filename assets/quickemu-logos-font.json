@@ -1,11 +1,11 @@
 {
   "name": "quickemu-logos-font",
   "version": {
-    "string": "0.0.3",
+    "string": "0.0.4",
     "major": "0",
     "minor": "0",
-    "patch": "3",
-    "stable": "0.0.3"
+    "patch": "4",
+    "stable": "0.0.4"
   },
   "icons": {
     "tux": {
