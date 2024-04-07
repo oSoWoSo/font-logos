@@ -11,7 +11,7 @@ on:
 
 jobs:
   npm-publish:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Fetch repo
         uses: actions/checkout@v4

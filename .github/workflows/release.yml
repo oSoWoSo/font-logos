@@ -8,7 +8,7 @@ on:
 
 jobs:
   setup-release-draft:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Fetch repo
         uses: actions/checkout@v4
