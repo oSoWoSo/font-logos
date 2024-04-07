@@ -10,7 +10,7 @@ on:
 
 jobs:
   update_assets:
-    runs-on: ubuntu
+    runs-on: ubuntu-latest
     steps:
       - name: Fetch repo
         uses: actions/checkout@v4
