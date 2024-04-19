@@ -19,7 +19,7 @@ fonts in your project and use the CSS classes listed below.
 
 Alternatively just link to it using a CDN such as [jsDelivr](//jsdelivr.com):
 
-	<link href="//cdn.jsdelivr.net/npm/quickemu-logos-font@0.0.3/assets/quickemu-logos-font.css" rel="stylesheet">
+	<link href="//cdn.jsdelivr.net/npm/quickemu-logos-font@0.0.4/assets/quickemu-logos-font.css" rel="stylesheet">
 
 ## Usage ##
 
